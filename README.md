@@ -2,7 +2,7 @@
 
 ### I'm a new to programming!
 - :computer: I’m currently working on nothing
-- 🌱 I’m currently learning in 9 class
+- 🌱 I’m currently learning in Нижегородском Губернском Колледже
 - 💬 Ask me about ...
 
 
